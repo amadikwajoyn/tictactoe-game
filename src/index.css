@@ -18,22 +18,25 @@ ol, ul {
 }
 
 .square {
-    background: #fff;
+    background: rgb(155, 42, 27);
     border: 1px solid #999;
     float: left;
     font-size: 24px;
     font-weight: bold;
     line-height: 34px;
-    height: 50px;
+    height: 100PX;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 50px;
+    width: 100px;
+    color: white;
 }
 
 .square:focus {
     outline: none;
+    color: #fff;
+    background-color: orange;
 }
 
 kbd-navigation .square:focus {
@@ -43,11 +46,13 @@ kbd-navigation .square:focus {
 .game {
     display: flex;
     flex-direction: row;
+    
 }
 
 .game-info {
     margin-left: 20px;
 }
+
 
 .winner {
     color: green;
