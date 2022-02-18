@@ -13,9 +13,7 @@ P2 - player 2
 - The system should automatically pick the players winning players name for winner's message.
 _ The system should be able to move back to previous moves
 
-
-![Screen Shot 2022-02-18 at 12 21 52 PM](https://user-images.githubusercontent.com/20610726/154676730-80b6e572-6bfa-4801-a438-7402771e540b.png)
-
+![Screen Shot 2022-02-18 at 12 58 21 PM](https://user-images.githubusercontent.com/20610726/154679341-d483aee5-d99f-4435-ae97-81e7ad543f5e.png)
 
 
 In the project directory, you can run:
