@@ -4,6 +4,8 @@ This is a Tic Tac Toe game between two players known as
 P1 - player 1
 P2 - player 2
 
+### It is developed in react js.
+
 
 
 ## Intending feature
