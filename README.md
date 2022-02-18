@@ -14,6 +14,10 @@ P2 - player 2
 _ The system should be able to move back to previous moves
 
 
+![Screen Shot 2022-02-18 at 12 21 52 PM](https://user-images.githubusercontent.com/20610726/154676730-80b6e572-6bfa-4801-a438-7402771e540b.png)
+
+
+
 In the project directory, you can run:
 
 ### Available feature
