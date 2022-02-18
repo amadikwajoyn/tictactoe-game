@@ -3,14 +3,17 @@ body{
     margin: 20px;
 }
 
+
 ol, ul {
     padding-left: 30px;
 }
+
 
 .board-row:after {
     clear: both;
     content: "";
     display: table;
+
 }
 
 .status {
@@ -24,7 +27,7 @@ ol, ul {
     font-size: 24px;
     font-weight: bold;
     line-height: 34px;
-    height: 100PX;
+    height: 100px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
@@ -35,8 +38,8 @@ ol, ul {
 
 .square:focus {
     outline: none;
-    color: #fff;
-    background-color: orange;
+    color: rgb(155, 42, 27);
+    background-color: blue;
 }
 
 kbd-navigation .square:focus {
@@ -53,7 +56,13 @@ kbd-navigation .square:focus {
     margin-left: 20px;
 }
 
-
+.move {
+    background-color: rgb(20, 37, 187);
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+    margin-bottom: 3px;
+}
 .winner {
     color: green;
 }
@@ -61,4 +70,3 @@ kbd-navigation .square:focus {
 .nextplayer {
     color: red;
 }
-
