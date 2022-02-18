@@ -25,3 +25,5 @@ In the project directory, you can run:
 - System is able to capture gaming history.
 - System is able to output the player that won by id
 
+## To Play - check out
+https://mytictactoe-game.netlify.app/
